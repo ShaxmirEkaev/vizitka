@@ -1,0 +1,45 @@
+.btn
+{
+    display: inline-block;
+    background-color: brown;
+    height: 15px;
+    width: 23%;
+}
+
+
+#licnayafotka
+{
+    float: right;
+}
+
+.navigasiya
+{
+    display: inline-block;
+    height: 20px;
+    width: 100%;
+    background-color: brown;
+}
+
+.const
+{
+
+  position: fixed;
+  bottom: 1%;
+  right: 1%;
+}
+
+.const3
+{
+
+  position: fixed;
+  bottom: 1%;
+  right: 1%;
+}
+
+
+
+
+.okno {
+  height: 200px;
+  width: 40%;
+}
